@@ -1,0 +1,219 @@
+Reading output ./DATASET1/BPR_citeulike-a_samplingRate_1.csv
+Reading output ./DATASET1/MF_citeulike-a_samplingRate_1.csv
+Reading output ./DATASET1/MostPop_citeulike-a_samplingRate_1.csv
+Reading output ./DATASET1/NeuMF_citeulike-a_samplingRate_1.csv
+Reading output ./DATASET1/PMF_citeulike-a_samplingRate_1.csv
+Reading output ./DATASET1/Popular_citeulike-a_samplingRate_1.csv
+Reading output ./DATASET1/Random_citeulike-a_samplingRate_1.csv
+Reading output ./DATASET1/UnPopular_citeulike-a_samplingRate_1.csv
+Reading output ./DATASET1/VAECF_citeulike-a_samplingRate_1.csv
+Reading output ./DATASET1/WMF_citeulike-a_samplingRate_1.csv
+SYSTEM BPR_citeulike-a_samplingRate_1.csv 
+   User group size u-1 =	0.506034948657899
+   Exposure for user group u-1=	0.49399815327815
+   Eff for user group u-1= 	0.226841670538477
+   Utility for user group u-1= 	0.200229279477048
+   User group size u-0 =	0.493965051342101
+   Exposure for user group u-0=	0.506001846722291
+   Eff for user group u-0= 	0.773158329461523
+   Utility for user group u-0= 	0.799770720522952
+   Item group size i-1 =	0.409599528857479
+   Exposure for item group i-1= 	0
+   Eff for item group i-1= 	0
+   Utility for item group i-1= 	0.19683887018879
+   Item group size i-0 =	0.590400471142521
+   Exposure for item group i-0= 	1
+   Eff for item group i-0= 	1
+   Utility for item group i-0= 	0.80316112981121
+SYSTEM	EFF	KL-U-psi-Pr	KL-I-psi-Pr	KL-U-psi-Un	KL-I-psi-Un	KL-U-Exp-Un	KL-U-Exp-Pr	KL-U-Exp-UtilEq	KL-U-Eff-Un	KL-U-Eff-Pr	KL-U-Ef-UtilEq	KL-I-Exp-Un	KL-I-Exp-Pr	KL-I-Exp-UtilEq	KL-I-Eff-Un	KL-I-Eff-Pr	KL-I-Ef-UtilEq	MI-U-I-Psi	MI-U-I-Exp	MI-U-I-Eff	MI-I-u-Psi	MI-I-u-Exp	MI-I-u-Eff	MI-i-U-Psi	MI-i-U-Exp	MI-i-U-Eff
+BPR_citeulike-a_samplingRate_1.csv	0.037545333025112	0.288	0.148	0.277	0.148	0	0	0.309	0.227	0.237	0.003	1	0.76	0.316	1	0.76	0.316	0.001	0	0	0.169	0	0	0.317	0	0.032
+SYSTEM MF_citeulike-a_samplingRate_1.csv 
+   User group size u-1 =	0.506034948657899
+   Exposure for user group u-1=	0.49399815327815
+   Eff for user group u-1= 	0.300382810775863
+   Utility for user group u-1= 	0.200229279477048
+   User group size u-0 =	0.493965051342101
+   Exposure for user group u-0=	0.506001846722291
+   Eff for user group u-0= 	0.699617189224137
+   Utility for user group u-0= 	0.799770720522952
+   Item group size i-1 =	0.409599528857479
+   Exposure for item group i-1= 	0.5219355468081
+   Eff for item group i-1= 	0.142458995328571
+   Utility for item group i-1= 	0.19683887018879
+   Item group size i-0 =	0.590400471142521
+   Exposure for item group i-0= 	0.478064453192342
+   Eff for item group i-0= 	0.857541004671429
+   Utility for item group i-0= 	0.80316112981121
+SYSTEM	EFF	KL-U-psi-Pr	KL-I-psi-Pr	KL-U-psi-Un	KL-I-psi-Un	KL-U-Exp-Un	KL-U-Exp-Pr	KL-U-Exp-UtilEq	KL-U-Eff-Un	KL-U-Eff-Pr	KL-U-Ef-UtilEq	KL-I-Exp-Un	KL-I-Exp-Pr	KL-I-Exp-UtilEq	KL-I-Eff-Un	KL-I-Eff-Pr	KL-I-Ef-UtilEq	MI-U-I-Psi	MI-U-I-Exp	MI-U-I-Eff	MI-I-u-Psi	MI-I-u-Exp	MI-I-u-Eff	MI-i-U-Psi	MI-i-U-Exp	MI-i-U-Eff
+MF_citeulike-a_samplingRate_1.csv	0.00168974880110419	0.288	0.148	0.277	0.148	0	0	0.309	0.118	0.125	0.04	0.001	0.036	0.376	0.409	0.244	0.014	0.001	0	0.0002	0.169	0.091	0.59	0.317	0.042	0.881
+SYSTEM MostPop_citeulike-a_samplingRate_1.csv 
+   User group size u-1 =	0.506034948657899
+   Exposure for user group u-1=	0.49399815327815
+   Eff for user group u-1= 	0.226884262295475
+   Utility for user group u-1= 	0.200229279477048
+   User group size u-0 =	0.493965051342101
+   Exposure for user group u-0=	0.506001846722291
+   Eff for user group u-0= 	0.773115737704525
+   Utility for user group u-0= 	0.799770720522952
+   Item group size i-1 =	0.409599528857479
+   Exposure for item group i-1= 	0
+   Eff for item group i-1= 	0
+   Utility for item group i-1= 	0.19683887018879
+   Item group size i-0 =	0.590400471142521
+   Exposure for item group i-0= 	1
+   Eff for item group i-0= 	1
+   Utility for item group i-0= 	0.80316112981121
+SYSTEM	EFF	KL-U-psi-Pr	KL-I-psi-Pr	KL-U-psi-Un	KL-I-psi-Un	KL-U-Exp-Un	KL-U-Exp-Pr	KL-U-Exp-UtilEq	KL-U-Eff-Un	KL-U-Eff-Pr	KL-U-Ef-UtilEq	KL-I-Exp-Un	KL-I-Exp-Pr	KL-I-Exp-UtilEq	KL-I-Eff-Un	KL-I-Eff-Pr	KL-I-Ef-UtilEq	MI-U-I-Psi	MI-U-I-Exp	MI-U-I-Eff	MI-I-u-Psi	MI-I-u-Exp	MI-I-u-Eff	MI-i-U-Psi	MI-i-U-Exp	MI-i-U-Eff
+MostPop_citeulike-a_samplingRate_1.csv	0.0375307453815727	0.288	0.148	0.277	0.148	0	0	0.309	0.227	0.237	0.003	1	0.76	0.316	1	0.76	0.316	0.001	0	0	0.169	0	0	0.317	0	0.032
+SYSTEM NeuMF_citeulike-a_samplingRate_1.csv 
+   User group size u-1 =	0.506034948657899
+   Exposure for user group u-1=	0.49399815327815
+   Eff for user group u-1= 	0.308227786574573
+   Utility for user group u-1= 	0.200229279477048
+   User group size u-0 =	0.493965051342101
+   Exposure for user group u-0=	0.506001846722291
+   Eff for user group u-0= 	0.691772213425426
+   Utility for user group u-0= 	0.799770720522952
+   Item group size i-1 =	0.409599528857479
+   Exposure for item group i-1= 	0.0339771663003573
+   Eff for item group i-1= 	0.0154652720883401
+   Utility for item group i-1= 	0.19683887018879
+   Item group size i-0 =	0.590400471142521
+   Exposure for item group i-0= 	0.966022833699689
+   Eff for item group i-0= 	0.98453472791166
+   Utility for item group i-0= 	0.80316112981121
+SYSTEM	EFF	KL-U-psi-Pr	KL-I-psi-Pr	KL-U-psi-Un	KL-I-psi-Un	KL-U-Exp-Un	KL-U-Exp-Pr	KL-U-Exp-UtilEq	KL-U-Eff-Un	KL-U-Eff-Pr	KL-U-Ef-UtilEq	KL-I-Exp-Un	KL-I-Exp-Pr	KL-I-Exp-UtilEq	KL-I-Eff-Un	KL-I-Eff-Pr	KL-I-Ef-UtilEq	MI-U-I-Psi	MI-U-I-Exp	MI-U-I-Eff	MI-I-u-Psi	MI-I-u-Exp	MI-I-u-Eff	MI-i-U-Psi	MI-i-U-Exp	MI-i-U-Eff
+NeuMF_citeulike-a_samplingRate_1.csv	0.165791433171605	0.288	0.148	0.277	0.148	0	0	0.309	0.108	0.115	0.047	0.786	0.564	0.171	0.884	0.653	0.232	0.001	0.002	0.0015	0.169	0.125	0.108	0.317	0.115	0.37
+SYSTEM PMF_citeulike-a_samplingRate_1.csv 
+   User group size u-1 =	0.506034948657899
+   Exposure for user group u-1=	0.49399815327815
+   Eff for user group u-1= 	0.351629426761635
+   Utility for user group u-1= 	0.200229279477048
+   User group size u-0 =	0.493965051342101
+   Exposure for user group u-0=	0.506001846722291
+   Eff for user group u-0= 	0.648370573238364
+   Utility for user group u-0= 	0.799770720522952
+   Item group size i-1 =	0.409599528857479
+   Exposure for item group i-1= 	0.00246241904367505
+   Eff for item group i-1= 	0.00213394659897815
+   Utility for item group i-1= 	0.19683887018879
+   Item group size i-0 =	0.590400471142521
+   Exposure for item group i-0= 	0.997537580956328
+   Eff for item group i-0= 	0.997866053401022
+   Utility for item group i-0= 	0.80316112981121
+SYSTEM	EFF	KL-U-psi-Pr	KL-I-psi-Pr	KL-U-psi-Un	KL-I-psi-Un	KL-U-Exp-Un	KL-U-Exp-Pr	KL-U-Exp-UtilEq	KL-U-Eff-Un	KL-U-Eff-Pr	KL-U-Ef-UtilEq	KL-I-Exp-Un	KL-I-Exp-Pr	KL-I-Exp-UtilEq	KL-I-Eff-Un	KL-I-Eff-Pr	KL-I-Ef-UtilEq	MI-U-I-Psi	MI-U-I-Exp	MI-U-I-Eff	MI-I-u-Psi	MI-I-u-Exp	MI-I-u-Eff	MI-i-U-Psi	MI-i-U-Exp	MI-i-U-Eff
+PMF_citeulike-a_samplingRate_1.csv	0.0300710022635238	0.288	0.148	0.277	0.148	0	0	0.309	0.064	0.069	0.089	0.975	0.736	0.296	0.977	0.739	0.298	0.001	0	0.0032	0.169	0.019	0.022	0.317	0.031	0.423
+SYSTEM Popular_citeulike-a_samplingRate_1.csv 
+   User group size u-1 =	0.506034948657899
+   Exposure for user group u-1=	0.49399815327815
+   Eff for user group u-1= 	0.0910519707598325
+   Utility for user group u-1= 	0.200229279477048
+   User group size u-0 =	0.493965051342101
+   Exposure for user group u-0=	0.506001846722291
+   Eff for user group u-0= 	0.908948029240167
+   Utility for user group u-0= 	0.799770720522952
+   Item group size i-1 =	0.409599528857479
+   Exposure for item group i-1= 	0
+   Eff for item group i-1= 	0
+   Utility for item group i-1= 	0.19683887018879
+   Item group size i-0 =	0.590400471142521
+   Exposure for item group i-0= 	1
+   Eff for item group i-0= 	1
+   Utility for item group i-0= 	0.80316112981121
+SYSTEM	EFF	KL-U-psi-Pr	KL-I-psi-Pr	KL-U-psi-Un	KL-I-psi-Un	KL-U-Exp-Un	KL-U-Exp-Pr	KL-U-Exp-UtilEq	KL-U-Eff-Un	KL-U-Eff-Pr	KL-U-Ef-UtilEq	KL-I-Exp-Un	KL-I-Exp-Pr	KL-I-Exp-UtilEq	KL-I-Eff-Un	KL-I-Eff-Pr	KL-I-Ef-UtilEq	MI-U-I-Psi	MI-U-I-Exp	MI-U-I-Eff	MI-I-u-Psi	MI-I-u-Exp	MI-I-u-Eff	MI-i-U-Psi	MI-i-U-Exp	MI-i-U-Eff
+Popular_citeulike-a_samplingRate_1.csv	0.00258561760599097	0.288	0.148	0.277	0.148	0	0	0.309	0.56	0.574	0.064	1	0.76	0.316	1	0.76	0.316	0.001	0	0	0.169	0	0	0.317	0.176	0.439
+SYSTEM Random_citeulike-a_samplingRate_1.csv 
+   User group size u-1 =	0.506034948657899
+   Exposure for user group u-1=	0.49399815327815
+   Eff for user group u-1= 	0.236850927526997
+   Utility for user group u-1= 	0.200229279477048
+   User group size u-0 =	0.493965051342101
+   Exposure for user group u-0=	0.506001846722291
+   Eff for user group u-0= 	0.763149072473003
+   Utility for user group u-0= 	0.799770720522952
+   Item group size i-1 =	0.409599528857479
+   Exposure for item group i-1= 	0.409958211957463
+   Eff for item group i-1= 	0.163374699880961
+   Utility for item group i-1= 	0.19683887018879
+   Item group size i-0 =	0.590400471142521
+   Exposure for item group i-0= 	0.59004178804298
+   Eff for item group i-0= 	0.836625300119039
+   Utility for item group i-0= 	0.80316112981121
+SYSTEM	EFF	KL-U-psi-Pr	KL-I-psi-Pr	KL-U-psi-Un	KL-I-psi-Un	KL-U-Exp-Un	KL-U-Exp-Pr	KL-U-Exp-UtilEq	KL-U-Eff-Un	KL-U-Eff-Pr	KL-U-Ef-UtilEq	KL-I-Exp-Un	KL-I-Exp-Pr	KL-I-Exp-UtilEq	KL-I-Eff-Un	KL-I-Eff-Pr	KL-I-Ef-UtilEq	MI-U-I-Psi	MI-U-I-Exp	MI-U-I-Eff	MI-I-u-Psi	MI-I-u-Exp	MI-I-u-Eff	MI-i-U-Psi	MI-i-U-Exp	MI-i-U-Eff
+Random_citeulike-a_samplingRate_1.csv	0.00172193013087152	0.288	0.148	0.277	0.148	0	0	0.309	0.21	0.219	0.005	0.023	0	0.171	0.357	0.204	0.005	0.001	0	0.131	0.169	0.091	0.642	0.317	0.305	0.789
+SYSTEM UnPopular_citeulike-a_samplingRate_1.csv 
+   User group size u-1 =	0.506034948657899
+   Exposure for user group u-1=	0.49399815327815
+   Eff for user group u-1= 	0.325780753633588
+   Utility for user group u-1= 	0.200229279477048
+   User group size u-0 =	0.493965051342101
+   Exposure for user group u-0=	0.506001846722291
+   Eff for user group u-0= 	0.674219246366412
+   Utility for user group u-0= 	0.799770720522952
+   Item group size i-1 =	0.409599528857479
+   Exposure for item group i-1= 	1
+   Eff for item group i-1= 	1
+   Utility for item group i-1= 	0.19683887018879
+   Item group size i-0 =	0.590400471142521
+   Exposure for item group i-0= 	0
+   Eff for item group i-0= 	0
+   Utility for item group i-0= 	0.80316112981121
+SYSTEM	EFF	KL-U-psi-Pr	KL-I-psi-Pr	KL-U-psi-Un	KL-I-psi-Un	KL-U-Exp-Un	KL-U-Exp-Pr	KL-U-Exp-UtilEq	KL-U-Eff-Un	KL-U-Eff-Pr	KL-U-Ef-UtilEq	KL-I-Exp-Un	KL-I-Exp-Pr	KL-I-Exp-UtilEq	KL-I-Eff-Un	KL-I-Eff-Pr	KL-I-Ef-UtilEq	MI-U-I-Psi	MI-U-I-Exp	MI-U-I-Eff	MI-I-u-Psi	MI-I-u-Exp	MI-I-u-Eff	MI-i-U-Psi	MI-i-U-Exp	MI-i-U-Eff
+UnPopular_citeulike-a_samplingRate_1.csv	0.00103796830606318	0.288	0.148	0.277	0.148	0	0	0.309	0.089	0.095	0.062	1	1.287	2.344	1	1.287	2.344	0.001	0	0	0.169	0	0	0.317	0.119	0.91
+SYSTEM VAECF_citeulike-a_samplingRate_1.csv 
+   User group size u-1 =	0.506034948657899
+   Exposure for user group u-1=	0.49399815327815
+   Eff for user group u-1= 	0.313704688523612
+   Utility for user group u-1= 	0.200229279477048
+   User group size u-0 =	0.493965051342101
+   Exposure for user group u-0=	0.506001846722291
+   Eff for user group u-0= 	0.686295311476388
+   Utility for user group u-0= 	0.799770720522952
+   Item group size i-1 =	0.409599528857479
+   Exposure for item group i-1= 	0.0189969647900367
+   Eff for item group i-1= 	0.0103530870346593
+   Utility for item group i-1= 	0.19683887018879
+   Item group size i-0 =	0.590400471142521
+   Exposure for item group i-0= 	0.981003035209989
+   Eff for item group i-0= 	0.989646912965341
+   Utility for item group i-0= 	0.80316112981121
+SYSTEM	EFF	KL-U-psi-Pr	KL-I-psi-Pr	KL-U-psi-Un	KL-I-psi-Un	KL-U-Exp-Un	KL-U-Exp-Pr	KL-U-Exp-UtilEq	KL-U-Eff-Un	KL-U-Eff-Pr	KL-U-Ef-UtilEq	KL-I-Exp-Un	KL-I-Exp-Pr	KL-I-Exp-UtilEq	KL-I-Eff-Un	KL-I-Eff-Pr	KL-I-Ef-UtilEq	MI-U-I-Psi	MI-U-I-Exp	MI-U-I-Eff	MI-I-u-Psi	MI-I-u-Exp	MI-I-u-Eff	MI-i-U-Psi	MI-i-U-Exp	MI-i-U-Eff
+VAECF_citeulike-a_samplingRate_1.csv	0.167067107373219	0.288	0.148	0.277	0.148	0	0	0.309	0.102	0.109	0.051	0.864	0.634	0.219	0.916	0.682	0.254	0.001	0.0001	0.0064	0.169	0.087	0.078	0.317	0.067	0.34
+SYSTEM WMF_citeulike-a_samplingRate_1.csv 
+   User group size u-1 =	0.506034948657899
+   Exposure for user group u-1=	0.49399815327815
+   Eff for user group u-1= 	0.251537187155547
+   Utility for user group u-1= 	0.200229279477048
+   User group size u-0 =	0.493965051342101
+   Exposure for user group u-0=	0.506001846722291
+   Eff for user group u-0= 	0.748462812844455
+   Utility for user group u-0= 	0.799770720522952
+   Item group size i-1 =	0.409599528857479
+   Exposure for item group i-1= 	0.109663165547316
+   Eff for item group i-1= 	0.0515118127492948
+   Utility for item group i-1= 	0.19683887018879
+   Item group size i-0 =	0.590400471142521
+   Exposure for item group i-0= 	0.890336834452839
+   Eff for item group i-0= 	0.948488187250705
+   Utility for item group i-0= 	0.80316112981121
+SYSTEM	EFF	KL-U-psi-Pr	KL-I-psi-Pr	KL-U-psi-Un	KL-I-psi-Un	KL-U-Exp-Un	KL-U-Exp-Pr	KL-U-Exp-UtilEq	KL-U-Eff-Un	KL-U-Eff-Pr	KL-U-Ef-UtilEq	KL-I-Exp-Un	KL-I-Exp-Pr	KL-I-Exp-UtilEq	KL-I-Eff-Un	KL-I-Eff-Pr	KL-I-Ef-UtilEq	MI-U-I-Psi	MI-U-I-Exp	MI-U-I-Eff	MI-I-u-Psi	MI-I-u-Exp	MI-I-u-Eff	MI-i-U-Psi	MI-i-U-Exp	MI-i-U-Eff
+WMF_citeulike-a_samplingRate_1.csv	0.120837356546804	0.288	0.148	0.277	0.148	0	0	0.309	0.186	0.195	0.011	0.501	0.319	0.039	0.707	0.494	0.127	0.001	0.0087	0.0141	0.169	0.152	0.237	0.317	0.246	0.646
+SYSTEM ORACLE 
+   User group size u-1 =	0.506034948657899
+   Exposure for user group u-1=	0.298447292813276
+   Eff for user group u-1= 	0.298447292813276
+   Utility for user group u-1= 	0.200229279477048
+   User group size u-0 =	0.493965051342101
+   Exposure for user group u-0=	0.701552707186842
+   Eff for user group u-0= 	0.701552707186842
+   Utility for user group u-0= 	0.799770720522952
+   Item group size i-1 =	0.409599528857479
+   Exposure for item group i-1= 	0.201431778148019
+   Eff for item group i-1= 	0.201431778148019
+   Utility for item group i-1= 	0.19683887018879
+   Item group size i-0 =	0.590400471142521
+   Exposure for item group i-0= 	0.798568221852101
+   Eff for item group i-0= 	0.798568221852101
+   Utility for item group i-0= 	0.80316112981121
+SYSTEM	EFF	KL-U-psi-Pr	KL-I-psi-Pr	KL-U-psi-Un	KL-I-psi-Un	KL-U-Exp-Un	KL-U-Exp-Pr	KL-U-Exp-UtilEq	KL-U-Eff-Un	KL-U-Eff-Pr	KL-U-Ef-UtilEq	KL-I-Exp-Un	KL-I-Exp-Pr	KL-I-Exp-UtilEq	KL-I-Eff-Un	KL-I-Eff-Pr	KL-I-Ef-UtilEq	MI-U-I-Psi	MI-U-I-Exp	MI-U-I-Eff	MI-I-u-Psi	MI-I-u-Exp	MI-I-u-Eff	MI-i-U-Psi	MI-i-U-Exp	MI-i-U-Eff
+ORACLE	3.36157906674151	0.288	0.148	0.277	0.148	0.12	0.127	0.039	0.12	0.127	0.039	0.275	0.141	0	0.275	0.141	0	0.001	0.0021	0.0021	0.169	0.221	0.221	0.317	0.406	0.406

@@ -1,0 +1,200 @@
+Reading output ./DATASET2/BPR_netflix-small_samplingRate_1.csv
+Reading output ./DATASET2/MF_netflix-small_samplingRate_1.csv
+Reading output ./DATASET2/MostPop_netflix-small_samplingRate_1.csv
+Reading output ./DATASET2/NeuMF_netflix-small_samplingRate_1.csv
+Reading output ./DATASET2/PMF_netflix-small_samplingRate_1.csv
+Reading output ./DATASET2/Popular_netflix-small_samplingRate_1.csv
+Reading output ./DATASET2/Random_netflix-small_samplingRate_1.csv
+Reading output ./DATASET2/UnPopular_netflix-small_samplingRate_1.csv
+Reading output ./DATASET2/VAECF_netflix-small_samplingRate_1.csv
+Reading output ./DATASET2/WMF_netflix-small_samplingRate_1.csv
+SYSTEM BPR_netflix-small_samplingRate_1.csv 
+   User group size u-0 =	0.346419853539463
+   Exposure for user group u-0=	0.400470865214931
+   Eff for user group u-0= 	0.621863362047858
+   Utility for user group u-0= 	0.793158551696074
+   User group size u-1 =	0.653580146460537
+   Exposure for user group u-1=	0.599529134785092
+   Eff for user group u-1= 	0.378136637952163
+   Utility for user group u-1= 	0.206841448303926
+   Item group size i-1 =	0.873003033367037
+   Exposure for item group i-1= 	0
+   Eff for item group i-1= 	0
+   Utility for item group i-1= 	0.18813182693143
+   Item group size i-0 =	0.126996966632963
+   Exposure for item group i-0= 	1
+   Eff for item group i-0= 	1
+   Utility for item group i-0= 	0.81186817306857
+SYSTEM	EFF	KL-U-psi-Pr	KL-I-psi-Pr	KL-U-psi-Un	KL-I-psi-Un	KL-U-Exp-Un	KL-U-Exp-Pr	KL-U-Exp-UtilEq	KL-U-Eff-Un	KL-U-Eff-Pr	KL-U-Ef-UtilEq	KL-I-Exp-Un	KL-I-Exp-Pr	KL-I-Exp-UtilEq	KL-I-Eff-Un	KL-I-Eff-Pr	KL-I-Ef-UtilEq	MI-U-I-Psi	MI-U-I-Exp	MI-U-I-Eff	MI-I-u-Psi	MI-I-u-Exp	MI-I-u-Eff	MI-i-U-Psi	MI-i-U-Exp	MI-i-U-Eff
+BPR_netflix-small_samplingRate_1.csv	1.31998439553475	0.604	1.756	0.264	1.756	0.028	0.009	0.525	0.043	0.226	0.11	1	2.977	0.3	1	2.977	0.3	0.002	0	0	0.141	0	0	0.077	0	0.02
+SYSTEM MF_netflix-small_samplingRate_1.csv 
+   User group size u-0 =	0.346419853539463
+   Exposure for user group u-0=	0.400470865214931
+   Eff for user group u-0= 	0.830877592475342
+   Utility for user group u-0= 	0.793158551696074
+   User group size u-1 =	0.653580146460537
+   Exposure for user group u-1=	0.599529134785092
+   Eff for user group u-1= 	0.169122407524655
+   Utility for user group u-1= 	0.206841448303926
+   Item group size i-1 =	0.873003033367037
+   Exposure for item group i-1= 	0.691209542082334
+   Eff for item group i-1= 	0.0399962910665097
+   Utility for item group i-1= 	0.18813182693143
+   Item group size i-0 =	0.126996966632963
+   Exposure for item group i-0= 	0.308790457917582
+   Eff for item group i-0= 	0.96000370893349
+   Utility for item group i-0= 	0.81186817306857
+SYSTEM	EFF	KL-U-psi-Pr	KL-I-psi-Pr	KL-U-psi-Un	KL-I-psi-Un	KL-U-Exp-Un	KL-U-Exp-Pr	KL-U-Exp-UtilEq	KL-U-Eff-Un	KL-U-Eff-Pr	KL-U-Ef-UtilEq	KL-I-Exp-Un	KL-I-Exp-Pr	KL-I-Exp-UtilEq	KL-I-Eff-Un	KL-I-Eff-Pr	KL-I-Ef-UtilEq	MI-U-I-Psi	MI-U-I-Exp	MI-U-I-Eff	MI-I-u-Psi	MI-I-u-Exp	MI-I-u-Eff	MI-i-U-Psi	MI-i-U-Exp	MI-i-U-Eff
+MF_netflix-small_samplingRate_1.csv	0.365684147788007	0.604	1.756	0.264	1.756	0.028	0.009	0.525	0.344	0.718	0.006	0.108	0.162	0.867	0.757	2.623	0.142	0.002	0.0202	0	0.141	0.161	0.221	0.077	0.067	0.066
+SYSTEM MostPop_netflix-small_samplingRate_1.csv 
+   User group size u-0 =	0.346419853539463
+   Exposure for user group u-0=	0.400470865214931
+   Eff for user group u-0= 	0.595363049051399
+   Utility for user group u-0= 	0.793158551696074
+   User group size u-1 =	0.653580146460537
+   Exposure for user group u-1=	0.599529134785092
+   Eff for user group u-1= 	0.404636950948619
+   Utility for user group u-1= 	0.206841448303926
+   Item group size i-1 =	0.873003033367037
+   Exposure for item group i-1= 	0
+   Eff for item group i-1= 	0
+   Utility for item group i-1= 	0.18813182693143
+   Item group size i-0 =	0.126996966632963
+   Exposure for item group i-0= 	1
+   Eff for item group i-0= 	1
+   Utility for item group i-0= 	0.81186817306857
+SYSTEM	EFF	KL-U-psi-Pr	KL-I-psi-Pr	KL-U-psi-Un	KL-I-psi-Un	KL-U-Exp-Un	KL-U-Exp-Pr	KL-U-Exp-UtilEq	KL-U-Eff-Un	KL-U-Eff-Pr	KL-U-Ef-UtilEq	KL-I-Exp-Un	KL-I-Exp-Pr	KL-I-Exp-UtilEq	KL-I-Eff-Un	KL-I-Eff-Pr	KL-I-Ef-UtilEq	MI-U-I-Psi	MI-U-I-Exp	MI-U-I-Eff	MI-I-u-Psi	MI-I-u-Exp	MI-I-u-Eff	MI-i-U-Psi	MI-i-U-Exp	MI-i-U-Eff
+MostPop_netflix-small_samplingRate_1.csv	1.29560448296091	0.604	1.756	0.264	1.756	0.028	0.009	0.525	0.026	0.185	0.145	1	2.977	0.3	1	2.977	0.3	0.002	0	0	0.141	0	0	0.077	0	0.017
+SYSTEM NeuMF_netflix-small_samplingRate_1.csv 
+   User group size u-0 =	0.346419853539463
+   Exposure for user group u-0=	0.400470865214931
+   Eff for user group u-0= 	0.51500325120335
+   Utility for user group u-0= 	0.793158551696074
+   User group size u-1 =	0.653580146460537
+   Exposure for user group u-1=	0.599529134785092
+   Eff for user group u-1= 	0.484996748796677
+   Utility for user group u-1= 	0.206841448303926
+   Item group size i-1 =	0.873003033367037
+   Exposure for item group i-1= 	0.0182464068791697
+   Eff for item group i-1= 	0.00792269303905246
+   Utility for item group i-1= 	0.18813182693143
+   Item group size i-0 =	0.126996966632963
+   Exposure for item group i-0= 	0.981753593120796
+   Eff for item group i-0= 	0.992077306960948
+   Utility for item group i-0= 	0.81186817306857
+SYSTEM	EFF	KL-U-psi-Pr	KL-I-psi-Pr	KL-U-psi-Un	KL-I-psi-Un	KL-U-Exp-Un	KL-U-Exp-Pr	KL-U-Exp-UtilEq	KL-U-Eff-Un	KL-U-Eff-Pr	KL-U-Ef-UtilEq	KL-I-Exp-Un	KL-I-Exp-Pr	KL-I-Exp-UtilEq	KL-I-Eff-Un	KL-I-Eff-Pr	KL-I-Ef-UtilEq	MI-U-I-Psi	MI-U-I-Exp	MI-U-I-Eff	MI-I-u-Psi	MI-I-u-Exp	MI-I-u-Eff	MI-i-U-Psi	MI-i-U-Exp	MI-i-U-Eff
+NeuMF_netflix-small_samplingRate_1.csv	1.4543101880729	0.604	1.756	0.264	1.756	0.028	0.009	0.525	0	0.085	0.275	0.868	2.794	0.207	0.933	2.888	0.25	0.002	0.0004	0	0.141	0.094	0.062	0.077	0.092	0.156
+SYSTEM PMF_netflix-small_samplingRate_1.csv 
+   User group size u-0 =	0.346419853539463
+   Exposure for user group u-0=	0.400470865214931
+   Eff for user group u-0= 	0.739806552047266
+   Utility for user group u-0= 	0.793158551696074
+   User group size u-1 =	0.653580146460537
+   Exposure for user group u-1=	0.599529134785092
+   Eff for user group u-1= 	0.260193447952734
+   Utility for user group u-1= 	0.206841448303926
+   Item group size i-1 =	0.873003033367037
+   Exposure for item group i-1= 	0.566637979620692
+   Eff for item group i-1= 	0.0897509275356154
+   Utility for item group i-1= 	0.18813182693143
+   Item group size i-0 =	0.126996966632963
+   Exposure for item group i-0= 	0.433362020379373
+   Eff for item group i-0= 	0.910249072464385
+   Utility for item group i-0= 	0.81186817306857
+SYSTEM	EFF	KL-U-psi-Pr	KL-I-psi-Pr	KL-U-psi-Un	KL-I-psi-Un	KL-U-Exp-Un	KL-U-Exp-Pr	KL-U-Exp-UtilEq	KL-U-Eff-Un	KL-U-Eff-Pr	KL-U-Ef-UtilEq	KL-I-Exp-Un	KL-I-Exp-Pr	KL-I-Exp-UtilEq	KL-I-Eff-Un	KL-I-Eff-Pr	KL-I-Ef-UtilEq	MI-U-I-Psi	MI-U-I-Exp	MI-U-I-Eff	MI-I-u-Psi	MI-I-u-Exp	MI-I-u-Eff	MI-i-U-Psi	MI-i-U-Exp	MI-i-U-Eff
+PMF_netflix-small_samplingRate_1.csv	0.361216894971234	0.604	1.756	0.264	1.756	0.028	0.009	0.525	0.172	0.464	0.011	0.012	0.414	0.508	0.564	2.291	0.054	0.002	0.0107	0.0013	0.141	0.222	0.402	0.077	0.046	0.135
+SYSTEM Popular_netflix-small_samplingRate_1.csv 
+   User group size u-0 =	0.346419853539463
+   Exposure for user group u-0=	0.400470865214931
+   Eff for user group u-0= 	0.762146906404208
+   Utility for user group u-0= 	0.793158551696074
+   User group size u-1 =	0.653580146460537
+   Exposure for user group u-1=	0.599529134785092
+   Eff for user group u-1= 	0.237853093595793
+   Utility for user group u-1= 	0.206841448303926
+   Item group size i-1 =	0.873003033367037
+   Exposure for item group i-1= 	0
+   Eff for item group i-1= 	0
+   Utility for item group i-1= 	0.18813182693143
+   Item group size i-0 =	0.126996966632963
+   Exposure for item group i-0= 	1
+   Eff for item group i-0= 	1
+   Utility for item group i-0= 	0.81186817306857
+SYSTEM	EFF	KL-U-psi-Pr	KL-I-psi-Pr	KL-U-psi-Un	KL-I-psi-Un	KL-U-Exp-Un	KL-U-Exp-Pr	KL-U-Exp-UtilEq	KL-U-Eff-Un	KL-U-Eff-Pr	KL-U-Ef-UtilEq	KL-I-Exp-Un	KL-I-Exp-Pr	KL-I-Exp-UtilEq	KL-I-Eff-Un	KL-I-Eff-Pr	KL-I-Ef-UtilEq	MI-U-I-Psi	MI-U-I-Exp	MI-U-I-Eff	MI-I-u-Psi	MI-I-u-Exp	MI-I-u-Eff	MI-i-U-Psi	MI-i-U-Exp	MI-i-U-Eff
+Popular_netflix-small_samplingRate_1.csv	0.261617248108852	0.604	1.756	0.264	1.756	0.028	0.009	0.525	0.208	0.52	0.004	1	2.977	0.3	1	2.977	0.3	0.002	0	0	0.141	0	0	0.077	0.006	0.3
+SYSTEM Random_netflix-small_samplingRate_1.csv 
+   User group size u-0 =	0.346419853539463
+   Exposure for user group u-0=	0.400470865214931
+   Eff for user group u-0= 	0.814067840980117
+   Utility for user group u-0= 	0.793158551696074
+   User group size u-1 =	0.653580146460537
+   Exposure for user group u-1=	0.599529134785092
+   Eff for user group u-1= 	0.185932159019884
+   Utility for user group u-1= 	0.206841448303926
+   Item group size i-1 =	0.873003033367037
+   Exposure for item group i-1= 	0.873044618129972
+   Eff for item group i-1= 	0.182824894265463
+   Utility for item group i-1= 	0.18813182693143
+   Item group size i-0 =	0.126996966632963
+   Exposure for item group i-0= 	0.126955381869787
+   Eff for item group i-0= 	0.817175105734537
+   Utility for item group i-0= 	0.81186817306857
+SYSTEM	EFF	KL-U-psi-Pr	KL-I-psi-Pr	KL-U-psi-Un	KL-I-psi-Un	KL-U-Exp-Un	KL-U-Exp-Pr	KL-U-Exp-UtilEq	KL-U-Eff-Un	KL-U-Eff-Pr	KL-U-Ef-UtilEq	KL-I-Exp-Un	KL-I-Exp-Pr	KL-I-Exp-UtilEq	KL-I-Eff-Un	KL-I-Eff-Pr	KL-I-Ef-UtilEq	MI-U-I-Psi	MI-U-I-Exp	MI-U-I-Eff	MI-I-u-Psi	MI-I-u-Exp	MI-I-u-Eff	MI-i-U-Psi	MI-i-U-Exp	MI-i-U-Eff
+Random_netflix-small_samplingRate_1.csv	0.0380588578268318	0.604	1.756	0.264	1.756	0.028	0.009	0.525	0.307	0.666	0.001	0.45	0	1.593	0.313	1.782	0	0.002	0	0.0192	0.141	0.094	0.642	0.077	0.051	0.584
+SYSTEM UnPopular_netflix-small_samplingRate_1.csv 
+   User group size u-0 =	0.346419853539463
+   Exposure for user group u-0=	0.400470865214931
+   Eff for user group u-0= 	0.919323670778728
+   Utility for user group u-0= 	0.793158551696074
+   User group size u-1 =	0.653580146460537
+   Exposure for user group u-1=	0.599529134785092
+   Eff for user group u-1= 	0.0806763292212722
+   Utility for user group u-1= 	0.206841448303926
+   Item group size i-1 =	0.873003033367037
+   Exposure for item group i-1= 	1
+   Eff for item group i-1= 	1
+   Utility for item group i-1= 	0.18813182693143
+   Item group size i-0 =	0.126996966632963
+   Exposure for item group i-0= 	0
+   Eff for item group i-0= 	0
+   Utility for item group i-0= 	0.81186817306857
+SYSTEM	EFF	KL-U-psi-Pr	KL-I-psi-Pr	KL-U-psi-Un	KL-I-psi-Un	KL-U-Exp-Un	KL-U-Exp-Pr	KL-U-Exp-UtilEq	KL-U-Eff-Un	KL-U-Eff-Pr	KL-U-Ef-UtilEq	KL-I-Exp-Un	KL-I-Exp-Pr	KL-I-Exp-UtilEq	KL-I-Eff-Un	KL-I-Eff-Pr	KL-I-Ef-UtilEq	MI-U-I-Psi	MI-U-I-Exp	MI-U-I-Eff	MI-I-u-Psi	MI-I-u-Exp	MI-I-u-Eff	MI-i-U-Psi	MI-i-U-Exp	MI-i-U-Eff
+UnPopular_netflix-small_samplingRate_1.csv	0.00791312597882679	0.604	1.756	0.264	1.756	0.028	0.009	0.525	0.595	1.05	0.086	1	0.195	2.41	1	0.195	2.41	0.002	0	0	0.141	0	0	0.077	0.044	0.404
+SYSTEM VAECF_netflix-small_samplingRate_1.csv 
+   User group size u-0 =	0.346419853539463
+   Exposure for user group u-0=	0.400470865214931
+   Eff for user group u-0= 	0.565325087455978
+   Utility for user group u-0= 	0.793158551696074
+   User group size u-1 =	0.653580146460537
+   Exposure for user group u-1=	0.599529134785092
+   Eff for user group u-1= 	0.434674912544046
+   Utility for user group u-1= 	0.206841448303926
+   Item group size i-1 =	0.873003033367037
+   Exposure for item group i-1= 	0.0107742057373703
+   Eff for item group i-1= 	0.00283512659185268
+   Utility for item group i-1= 	0.18813182693143
+   Item group size i-0 =	0.126996966632963
+   Exposure for item group i-0= 	0.989225794262608
+   Eff for item group i-0= 	0.997164873408147
+   Utility for item group i-0= 	0.81186817306857
+SYSTEM	EFF	KL-U-psi-Pr	KL-I-psi-Pr	KL-U-psi-Un	KL-I-psi-Un	KL-U-Exp-Un	KL-U-Exp-Pr	KL-U-Exp-UtilEq	KL-U-Eff-Un	KL-U-Eff-Pr	KL-U-Ef-UtilEq	KL-I-Exp-Un	KL-I-Exp-Pr	KL-I-Exp-UtilEq	KL-I-Eff-Un	KL-I-Eff-Pr	KL-I-Ef-UtilEq	MI-U-I-Psi	MI-U-I-Exp	MI-U-I-Eff	MI-I-u-Psi	MI-I-u-Exp	MI-I-u-Eff	MI-i-U-Psi	MI-i-U-Exp	MI-i-U-Eff
+VAECF_netflix-small_samplingRate_1.csv	1.60483039232291	0.604	1.756	0.264	1.756	0.028	0.009	0.525	0.012	0.143	0.189	0.914	2.861	0.237	0.971	2.941	0.278	0.002	0	0	0.141	0.071	0.027	0.077	0.115	0.171
+SYSTEM WMF_netflix-small_samplingRate_1.csv 
+   User group size u-0 =	0.346419853539463
+   Exposure for user group u-0=	0.400470865214931
+   Eff for user group u-0= 	0.609246644660623
+   Utility for user group u-0= 	0.793158551696074
+   User group size u-1 =	0.653580146460537
+   Exposure for user group u-1=	0.599529134785092
+   Eff for user group u-1= 	0.390753355339378
+   Utility for user group u-1= 	0.206841448303926
+   Item group size i-1 =	0.873003033367037
+   Exposure for item group i-1= 	0.110715932565473
+   Eff for item group i-1= 	0.0275054392903122
+   Utility for item group i-1= 	0.18813182693143
+   Item group size i-0 =	0.126996966632963
+   Exposure for item group i-0= 	0.889284067434306
+   Eff for item group i-0= 	0.972494560709689
+   Utility for item group i-0= 	0.81186817306857
+SYSTEM	EFF	KL-U-psi-Pr	KL-I-psi-Pr	KL-U-psi-Un	KL-I-psi-Un	KL-U-Exp-Un	KL-U-Exp-Pr	KL-U-Exp-UtilEq	KL-U-Eff-Un	KL-U-Eff-Pr	KL-U-Ef-UtilEq	KL-I-Exp-Un	KL-I-Exp-Pr	KL-I-Exp-UtilEq	KL-I-Eff-Un	KL-I-Eff-Pr	KL-I-Ef-UtilEq	MI-U-I-Psi	MI-U-I-Exp	MI-U-I-Eff	MI-I-u-Psi	MI-I-u-Exp	MI-I-u-Eff	MI-i-U-Psi	MI-i-U-Exp	MI-i-U-Eff
+WMF_netflix-small_samplingRate_1.csv	1.0430449056999	0.604	1.756	0.264	1.756	0.028	0.009	0.525	0.034	0.206	0.126	0.497	2.167	0.032	0.818	2.718	0.176	0.002	0	0.0023	0.141	0.214	0.161	0.077	0.15	0.274
